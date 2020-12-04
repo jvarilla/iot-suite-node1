@@ -9,7 +9,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "sensor.interface.ts",
+        "sensor.impl.ts"
     ],
     "testFiles": [
         "test.ts"
