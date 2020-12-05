@@ -11,7 +11,18 @@
         "main.ts",
         "README.md",
         "sensor.interface.ts",
-        "sensor.impl.ts"
+        "sensor.impl.ts",
+        "sensor-data.interface.ts",
+        "sensor-builder.impl.ts",
+        "sensor-builder.interface.ts",
+        "sensor-behavior.interface.ts",
+        "null-sensor-behavior.ts",
+        "mock-sensor-behavior.impl.ts",
+        "reporter.interface.ts",
+        "radio-reporter.impl.ts",
+        "serial-reporter.impl.ts",
+        "microbit-node.impl.ts",
+        "microbit-node.interface.ts"
     ],
     "testFiles": [
         "test.ts"
